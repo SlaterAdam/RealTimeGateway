@@ -1,0 +1,66 @@
+C:\Users\adamp\source\repos\RealTimeGateway\RealTimeGateway\bin\Release\net6.0-windows\RealTimeGateway.exe
+C:\Users\adamp\source\repos\RealTimeGateway\RealTimeGateway\bin\Release\net6.0-windows\RealTimeGateway.deps.json
+C:\Users\adamp\source\repos\RealTimeGateway\RealTimeGateway\bin\Release\net6.0-windows\RealTimeGateway.runtimeconfig.json
+C:\Users\adamp\source\repos\RealTimeGateway\RealTimeGateway\bin\Release\net6.0-windows\RealTimeGateway.dll
+C:\Users\adamp\source\repos\RealTimeGateway\RealTimeGateway\bin\Release\net6.0-windows\ref\RealTimeGateway.dll
+C:\Users\adamp\source\repos\RealTimeGateway\RealTimeGateway\bin\Release\net6.0-windows\RealTimeGateway.pdb
+C:\Users\adamp\source\repos\RealTimeGateway\RealTimeGateway\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\adamp\source\repos\RealTimeGateway\RealTimeGateway\obj\Release\net6.0-windows\RealTimeGateway.GatewayOutput.resources
+C:\Users\adamp\source\repos\RealTimeGateway\RealTimeGateway\obj\Release\net6.0-windows\RealTimeGateway.Properties.Resources.resources
+C:\Users\adamp\source\repos\RealTimeGateway\RealTimeGateway\obj\Release\net6.0-windows\RealTimeGateway.csproj.GenerateResource.cache
+C:\Users\adamp\source\repos\RealTimeGateway\RealTimeGateway\obj\Release\net6.0-windows\RealTimeGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamp\source\repos\RealTimeGateway\RealTimeGateway\obj\Release\net6.0-windows\RealTimeGateway.AssemblyInfoInputs.cache
+C:\Users\adamp\source\repos\RealTimeGateway\RealTimeGateway\obj\Release\net6.0-windows\RealTimeGateway.AssemblyInfo.cs
+C:\Users\adamp\source\repos\RealTimeGateway\RealTimeGateway\obj\Release\net6.0-windows\RealTimeGateway.csproj.CoreCompileInputs.cache
+C:\Users\adamp\source\repos\RealTimeGateway\RealTimeGateway\obj\Release\net6.0-windows\RealTimeGateway.csproj.CopyComplete
+C:\Users\adamp\source\repos\RealTimeGateway\RealTimeGateway\obj\Release\net6.0-windows\RealTimeGateway.dll
+C:\Users\adamp\source\repos\RealTimeGateway\RealTimeGateway\obj\Release\net6.0-windows\ref\RealTimeGateway.dll
+C:\Users\adamp\source\repos\RealTimeGateway\RealTimeGateway\obj\Release\net6.0-windows\RealTimeGateway.pdb
+C:\Users\adamp\source\repos\RealTimeGateway\RealTimeGateway\obj\Release\net6.0-windows\RealTimeGateway.genruntimeconfig.cache
+C:\Users\adamp\source\repos\RealTimeGateway\RealTimeGateway\bin\Release\net6.0-windows\Docker.DotNet.dll
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Version 8\RealTimeGateway\bin\Release\net6.0-windows\RealTimeGateway.exe
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Version 8\RealTimeGateway\bin\Release\net6.0-windows\RealTimeGateway.deps.json
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Version 8\RealTimeGateway\bin\Release\net6.0-windows\RealTimeGateway.runtimeconfig.json
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Version 8\RealTimeGateway\bin\Release\net6.0-windows\RealTimeGateway.dll
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Version 8\RealTimeGateway\bin\Release\net6.0-windows\ref\RealTimeGateway.dll
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Version 8\RealTimeGateway\bin\Release\net6.0-windows\RealTimeGateway.pdb
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Version 8\RealTimeGateway\bin\Release\net6.0-windows\Docker.DotNet.dll
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Version 8\RealTimeGateway\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Version 8\RealTimeGateway\obj\Release\net6.0-windows\RealTimeGateway.GatewayOutput.resources
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Version 8\RealTimeGateway\obj\Release\net6.0-windows\RealTimeGateway.Properties.Resources.resources
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Version 8\RealTimeGateway\obj\Release\net6.0-windows\RealTimeGateway.csproj.GenerateResource.cache
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Version 8\RealTimeGateway\obj\Release\net6.0-windows\RealTimeGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Version 8\RealTimeGateway\obj\Release\net6.0-windows\RealTimeGateway.AssemblyInfoInputs.cache
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Version 8\RealTimeGateway\obj\Release\net6.0-windows\RealTimeGateway.AssemblyInfo.cs
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Version 8\RealTimeGateway\obj\Release\net6.0-windows\RealTimeGateway.csproj.CoreCompileInputs.cache
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Version 8\RealTimeGateway\obj\Release\net6.0-windows\RealTimeGateway.csproj.CopyComplete
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Version 8\RealTimeGateway\obj\Release\net6.0-windows\RealTimeGateway.dll
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Version 8\RealTimeGateway\obj\Release\net6.0-windows\ref\RealTimeGateway.dll
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Version 8\RealTimeGateway\obj\Release\net6.0-windows\RealTimeGateway.pdb
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Version 8\RealTimeGateway\obj\Release\net6.0-windows\RealTimeGateway.genruntimeconfig.cache
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Version 8\RealTimeGateway\obj\Release\net6.0-windows\RealTimeGateway.csproj.AssemblyReference.cache
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Advanced Setup Version\RealTimeGateway\bin\Release\net6.0-windows\RealTimeGateway.exe
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Advanced Setup Version\RealTimeGateway\bin\Release\net6.0-windows\RealTimeGateway.deps.json
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Advanced Setup Version\RealTimeGateway\bin\Release\net6.0-windows\RealTimeGateway.runtimeconfig.json
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Advanced Setup Version\RealTimeGateway\bin\Release\net6.0-windows\RealTimeGateway.dll
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Advanced Setup Version\RealTimeGateway\bin\Release\net6.0-windows\ref\RealTimeGateway.dll
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Advanced Setup Version\RealTimeGateway\bin\Release\net6.0-windows\RealTimeGateway.pdb
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Advanced Setup Version\RealTimeGateway\bin\Release\net6.0-windows\Docker.DotNet.dll
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Advanced Setup Version\RealTimeGateway\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Advanced Setup Version\RealTimeGateway\obj\Release\net6.0-windows\RealTimeGateway.csproj.AssemblyReference.cache
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Advanced Setup Version\RealTimeGateway\obj\Release\net6.0-windows\RealTimeGateway.GatewayOutput.resources
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Advanced Setup Version\RealTimeGateway\obj\Release\net6.0-windows\RealTimeGateway.Properties.Resources.resources
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Advanced Setup Version\RealTimeGateway\obj\Release\net6.0-windows\RealTimeGateway.csproj.GenerateResource.cache
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Advanced Setup Version\RealTimeGateway\obj\Release\net6.0-windows\RealTimeGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Advanced Setup Version\RealTimeGateway\obj\Release\net6.0-windows\RealTimeGateway.AssemblyInfoInputs.cache
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Advanced Setup Version\RealTimeGateway\obj\Release\net6.0-windows\RealTimeGateway.AssemblyInfo.cs
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Advanced Setup Version\RealTimeGateway\obj\Release\net6.0-windows\RealTimeGateway.csproj.CoreCompileInputs.cache
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Advanced Setup Version\RealTimeGateway\obj\Release\net6.0-windows\RealTimeGateway.csproj.CopyComplete
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Advanced Setup Version\RealTimeGateway\obj\Release\net6.0-windows\RealTimeGateway.dll
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Advanced Setup Version\RealTimeGateway\obj\Release\net6.0-windows\ref\RealTimeGateway.dll
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Advanced Setup Version\RealTimeGateway\obj\Release\net6.0-windows\RealTimeGateway.pdb
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Advanced Setup Version\RealTimeGateway\obj\Release\net6.0-windows\RealTimeGateway.genruntimeconfig.cache
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Advanced Setup Version\RealTimeGateway\bin\Release\net6.0-windows\RealTimeGateway.dll.manifest
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Advanced Setup Version\RealTimeGateway\bin\Release\net6.0-windows\RealTimeGateway.application
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Advanced Setup Version\RealTimeGateway\obj\Release\net6.0-windows\RealTimeGateway.dll.manifest
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Advanced Setup Version\RealTimeGateway\obj\Release\net6.0-windows\RealTimeGateway.application

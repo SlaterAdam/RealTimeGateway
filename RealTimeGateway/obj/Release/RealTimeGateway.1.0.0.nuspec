@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>RealTimeGateway</id>
+    <version>1.0.0</version>
+    <authors>RealTimeGateway</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="Docker.DotNet" version="3.125.5" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net6.0-windows7.0/Properties/cimar-logo.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\adamp\source\repos\RealTimeGateway\RealTimeGateway\bin\Release\net6.0-windows\RealTimeGateway.runtimeconfig.json" target="lib\net6.0-windows7.0\RealTimeGateway.runtimeconfig.json" />
+    <file src="C:\Users\adamp\source\repos\RealTimeGateway\RealTimeGateway\bin\Release\net6.0-windows\RealTimeGateway.dll" target="lib\net6.0-windows7.0\RealTimeGateway.dll" />
+    <file src="C:\Users\adamp\source\repos\RealTimeGateway\RealTimeGateway\Properties\cimar-logo.ico" target="content\Properties\cimar-logo.ico" />
+    <file src="C:\Users\adamp\source\repos\RealTimeGateway\RealTimeGateway\Properties\cimar-logo.ico" target="contentFiles\any\net6.0-windows7.0\Properties\cimar-logo.ico" />
+  </files>
+</package>

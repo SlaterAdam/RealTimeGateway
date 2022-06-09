@@ -1,0 +1,7 @@
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Advanced Setup Version\RealTimeGateway\bin\publish\RealTimeGateway.exe
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Advanced Setup Version\RealTimeGateway\bin\publish\RealTimeGateway.dll
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Advanced Setup Version\RealTimeGateway\bin\publish\RealTimeGateway.deps.json
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Advanced Setup Version\RealTimeGateway\bin\publish\RealTimeGateway.runtimeconfig.json
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Advanced Setup Version\RealTimeGateway\bin\publish\RealTimeGateway.pdb
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Advanced Setup Version\RealTimeGateway\bin\publish\Docker.DotNet.dll
+C:\Users\adamp\Desktop\RealTimeGateway Versions\Advanced Setup Version\RealTimeGateway\bin\publish\Newtonsoft.Json.dll
